@@ -1,1 +1,2 @@
-Second text file
+Changes were made
+
